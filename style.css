@@ -1,0 +1,49 @@
+body{
+
+    text-align: center;
+    background-color: burlywood;
+   
+}
+#survey-form{
+    
+    width: 900px;
+    margin: 0 auto ;
+    background-color: aqua;
+}
+.row-tab{
+    display:block ;
+    padding-top: 20px;
+
+}
+.label-burger{
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+.input-burger{
+    display: inline-block;
+    text-align: left;
+    width:  55%;
+}
+.select-input {
+
+    display: inline-block;
+    text-align: left;
+    width: 15%;
+    
+
+}
+.label-select{
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+}
+.radio-labes {
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#title {
+    background-color: darkseagreen;
+}
